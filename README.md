@@ -8,7 +8,6 @@ This repository contains a complete machine learning workflow for predicting hou
 - [Installation Instructions](#installation-instructions)
   - [Setting Up the Virtual Environment](#setting-up-the-virtual-environment)
   - [Installing the Required Libraries](#installing-the-required-libraries)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [License](#license)
 
